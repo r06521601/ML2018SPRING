@@ -10,8 +10,14 @@ In this competition, you’re challenged to build an algorithm to identifying wh
 
 We'd like to thank Happy Whale for providing this data and problem. Happy Whale is a platform that uses image process algorithms to let anyone to submit their whale photo and have it automatically identified.
 
+## Prerequisites
 
-## How to Run
+- tensorflow-gpu 1.6.0
+
+- keras 2.0.8
+
+
+## Getting Started
 
 Prepare training data, testing data, and pretrained model
 
