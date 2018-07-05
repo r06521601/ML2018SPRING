@@ -1,7 +1,5 @@
 # Machine Learning (2018, spring) Final Project
 
-## Project Description
-
 ### Humpback Whale Identification Challenge[1] - Can you identify a whale by the picture of its fluke?
 
 After centuries of intense whaling, recovering whale populations still have a hard time adapting to warming oceans and struggle to compete every day with the industrial fishing industry for food.
